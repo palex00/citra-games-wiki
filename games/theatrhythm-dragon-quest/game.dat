@@ -1,0 +1,9 @@
+title = "Theatrhythm Dragon Quest"
+description = "Theatrhythm Dragon Quest is a Theatrhythm with Dragon Quest setting. It was made by Square Enix and Indieszero Co. It is a rhythm game."
+needs_system_files = false
+needs_shared_font = true
+
+[[releases]]
+title = "0004000000140000"
+region = "jpn"
+release_date = "2015-03-26"
